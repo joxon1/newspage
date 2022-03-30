@@ -1,0 +1,29 @@
+{
+  "news":[
+    {
+      "id":1,
+      "name":"My first news",
+      "decription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled",
+      "category":"Hot News"
+    },
+    {
+      "id":2,
+      "name":"I wanna programming",
+      "decription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled",
+      "category":"IT News"
+    },
+    {
+      "id":3,
+      "name":"Messi dead",
+      "decription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled",
+      "category":"Sport News"
+    },
+    {
+      "id":4,
+      "name":"Putin wanted",
+      "decription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled",
+      "category":"World News"
+    }
+  ],
+  "filter":["all","hot","sport","world","it"]
+}
