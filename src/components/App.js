@@ -5,7 +5,7 @@ import NewsFilter from "./NewsFilter";
 
 export default function App() {
   return (
-    <div>
+    <div className="app">
       <NavBar />
       <div className="content">
         <NewList />
